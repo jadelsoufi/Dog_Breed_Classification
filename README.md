@@ -95,4 +95,6 @@ La val_accuracy tombe à 45%
 
 ![image](https://user-images.githubusercontent.com/76253068/171599987-0997e175-8701-4b58-b8da-2d60b126935a.png)
 
+## Application d'identification de la race canine
 
+Voir programme_cnn.py 
